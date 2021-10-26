@@ -8,4 +8,5 @@
 <img width="" height="" src="./png/dog.jpg"></img>
 
   - 2주차
+ 
 <img width="" height="" src="./png/2st.jpg"></img>
